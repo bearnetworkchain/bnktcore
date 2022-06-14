@@ -1,6 +1,6 @@
 go 1.18
 
-module github.com/cosmos/cosmos-sdk
+module github.com/bearnetworkchain/bnktcore
 
 require (
 	cosmossdk.io/api v0.1.0-alpha8

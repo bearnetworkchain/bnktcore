@@ -13,7 +13,6 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/db"
 	dbutil "github.com/cosmos/cosmos-sdk/db/internal"
-
 	"github.com/dgraph-io/badger/v3"
 	bpb "github.com/dgraph-io/badger/v3/pb"
 	"github.com/dgraph-io/ristretto/z"
