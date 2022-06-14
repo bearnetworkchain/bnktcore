@@ -7,7 +7,7 @@ parent:
   <h1> Cosmos SDK </h1>
 </div>
 
-![banner](docs/cosmos-sdk-image.jpg)
+![banner]([docs/cosmos-sdk-image.jpg](https://pbs.twimg.com/profile_banners/1530818748730339328/1653916743/1500x500))
 
 <div align="center">
   <a href="https://github.com/cosmos/cosmos-sdk/blob/main/LICENSE">
