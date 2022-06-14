@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Cosmos SDK </h1>
+  <h1> 熊網鏈 - Bear Network </h1>
 </div>
 
 ![banner](docs/BearNetwork-01.jpg)
