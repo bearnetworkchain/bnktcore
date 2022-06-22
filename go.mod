@@ -45,7 +45,7 @@ require (
 	github.com/regen-network/cosmos-proto v0.3.1
 	github.com/rs/zerolog v1.27.0
 	github.com/spf13/cast v1.5.0
-	github.com/spf13/cobra v1.4.0
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
 	github.com/stretchr/testify v1.7.2
@@ -64,8 +64,10 @@ require (
 )
 
 require (
+	github.com/cosmos/cosmos-sdk v0.45.5
 	github.com/cosmos/cosmos-sdk/depinject v1.0.0-alpha.4
 	github.com/cosmos/cosmos-sdk/store/tools/ics23 v0.0.0-20220608170201-b0e82f964070
+	github.com/cosmos/cosmos-sdk/x/group v0.0.0-20220119104752-a036c530fc0c
 )
 
 require (
