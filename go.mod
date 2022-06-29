@@ -48,7 +48,7 @@ require (
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/btcd v0.1.1
 	github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15
 	github.com/tendermint/go-amino v0.16.0
@@ -64,8 +64,10 @@ require (
 )
 
 require (
+	github.com/cosmos/cosmos-sdk v0.45.6
 	github.com/cosmos/cosmos-sdk/depinject v1.0.0-alpha.4
 	github.com/cosmos/cosmos-sdk/store/tools/ics23 v0.0.0-20220608170201-b0e82f964070
+	github.com/cosmos/cosmos-sdk/x/group v0.0.0-20220119104752-a036c530fc0c
 )
 
 require (
