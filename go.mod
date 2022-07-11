@@ -40,7 +40,7 @@ require (
 	github.com/mattn/go-isatty v0.0.14
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.2
-	github.com/prometheus/common v0.34.0
+	github.com/prometheus/common v0.36.0
 	github.com/rakyll/statik v0.1.7
 	github.com/regen-network/cosmos-proto v0.3.1
 	github.com/rs/zerolog v1.27.0
@@ -64,8 +64,10 @@ require (
 )
 
 require (
+	github.com/cosmos/cosmos-sdk v0.45.6
 	github.com/cosmos/cosmos-sdk/depinject v1.0.0-alpha.4
 	github.com/cosmos/cosmos-sdk/store/tools/ics23 v0.0.0-20220608170201-b0e82f964070
+	github.com/cosmos/cosmos-sdk/x/group v0.0.0-20220119104752-a036c530fc0c
 )
 
 require (
