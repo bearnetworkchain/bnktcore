@@ -57,15 +57,17 @@ require (
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171
 	google.golang.org/genproto v0.0.0-20220519153652-3a47de7e79bd
-	google.golang.org/grpc v1.47.0
+	google.golang.org/grpc v1.48.0
 	google.golang.org/protobuf v1.28.0
 	pgregory.net/rapid v0.4.7
 	sigs.k8s.io/yaml v1.3.0
 )
 
 require (
+	github.com/cosmos/cosmos-sdk v0.45.6
 	github.com/cosmos/cosmos-sdk/depinject v1.0.0-alpha.4
 	github.com/cosmos/cosmos-sdk/store/tools/ics23 v0.0.0-20220608170201-b0e82f964070
+	github.com/cosmos/cosmos-sdk/x/group v0.0.0-20220119104752-a036c530fc0c
 )
 
 require (
